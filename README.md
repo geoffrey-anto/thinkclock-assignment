@@ -46,3 +46,12 @@ Created plots using Plotly to visualize how the following battery parameters cha
 ### Usage
 - There are 3 input select fields to choose the Battery ID, Parameter, and frequency(In the case of Battery_impedance).
 - The plots will be updated based on the selected values.
+
+### Images
+
+![image](https://github.com/user-attachments/assets/e93a0b3c-2c3b-4ade-8330-4527e5cebd20)
+![image](https://github.com/user-attachments/assets/9adcff69-5688-4dbc-96e6-338782d1de7c)
+![image](https://github.com/user-attachments/assets/bf7ff53b-af7e-44a5-bc06-d1b4c8c4623b)
+![image](https://github.com/user-attachments/assets/5afc5ae6-1707-413a-8d42-6f597f0759f3)
+
+
