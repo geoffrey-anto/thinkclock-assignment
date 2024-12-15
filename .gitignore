@@ -1,0 +1,4 @@
+dataset/
+thinkclock-venv/
+.ignore/
+__pycache__/
