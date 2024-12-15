@@ -69,4 +69,4 @@ def update_graph(battery_type, feature, frequency):
     
     return {}
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=80)
