@@ -1,7 +1,7 @@
 # ThinkClock Take Home Assignment
 
 ## Introduction
-In this assignment, you will analyze the NASA Battery Dataset available on Kaggle: [NASA Battery Dataset](https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset/data).
+In this assignment, we will analyze the NASA Battery Dataset available on Kaggle: [NASA Battery Dataset](https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset/data).
 
 ### Objective
 Created plots using Plotly to visualize how the following battery parameters change as the battery cell ages through charge/discharge cycles:
